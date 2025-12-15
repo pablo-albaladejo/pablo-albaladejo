@@ -1,55 +1,56 @@
-## Hi, I'm Pablo
+## Pablo Albaladejo — Senior Backend + AI Engineer
 
-I turn concepts into functional code — where ideas become tech reality.
+I build high-scale backend platforms and production-grade Generative AI systems (Agentic Workflows + LLM Ops). 15+ years across SaaS (B2B/B2C), including CTO / technical co-founder roles.
 
 [![Email](https://img.shields.io/badge/Email-pablo.albaladejo.mestre%40gmail.com-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.albaladejo.mestre@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Albaladejo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pabloalbaladejomestre)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3395884)
-[![Currently building: AI](https://img.shields.io/badge/Currently%20building-AI-111827?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/pablo-albaladejo-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-pablo--albaladejo-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pablo-albaladejo)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3395884/pablo-albaladejo)
 
 ## About
 
-- **Currently working on**: AI projects & platform automation
-- **Ask me about**: AWS, CDK, Node.js, TypeScript, AI
-- **Fun fact**: Cracking codes and crossing finish lines — coding triathlete
+- **Current focus**: bridging robust backend engineering and Generative AI (agent assistance, automation, and data-to-insight pipelines).
+- **Strengths**: event-driven / serverless architectures on AWS, platform reliability & cost efficiency, and pragmatic product execution.
+- **Fun fact**: triathlete (I like long runs—both in code and on the road).
 
-## Tech Stack (quick view)
+## Highlights
 
-### Languages
+- **Scale**: designing systems processing **1M+ daily call transcriptions** with low-latency requirements for real-time agent assistance.
+- **LLM Ops**: production observability for quality/cost/performance (incl. **Braintrust**) + feedback loops for continuous improvement.
+- **Cloud modernization**: migrating legacy systems to **event-driven, cloud-native** architectures (AWS Lambda/Fargate/DynamoDB/CDK).
+- **Product & leadership**: 15+ years building SaaS in HealthTech, HR, and Telecoms; experience as **CTO / technical co-founder**.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## What I work on
 
-### Cloud & DevOps
+- **Agentic workflows**: tool-using assistants, orchestration patterns, and backend primitives that make agents safe and useful.
+- **RAG & data pipelines**: turning raw conversation data into actionable insights, with strong guardrails and traceability.
+- **Backend architecture**: Hexagonal Architecture, event-driven systems, domain modeling, and pragmatic APIs.
+- **Production engineering**: observability, performance, reliability, cost controls, and CI/CD that teams can trust.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS%20CDK-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+## Tech (most used)
 
-### CI/CD
+- **Languages**: TypeScript/Node.js, Go, Python (and past experience with Java).
+- **AWS**: Lambda, Fargate, DynamoDB, API Gateway, EventBridge, CDK.
+- **Architecture**: Event-Driven Architecture, serverless, microservices, Hexagonal Architecture.
+- **AI / LLM**: Generative AI, Agentic Workflows, RAG, prompt engineering, evaluation & observability (Braintrust).
+- **Tooling**: Docker, Kubernetes, GitHub Actions, GitLab CI, Swagger/Postman.
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+## Experience snapshot
 
-### Databases
+- **Aircall (Mar 2025 – Present)** — Senior Software Engineer (Backend + AI)  
+  Building AI assistants for agent productivity; high-throughput pipelines; LLM Ops strategy and observability in production.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **hireful (Apr 2022 – Mar 2025)** — Senior Cloud Software Engineer  
+  Migrated legacy systems to cloud-native event-driven architectures; CI/CD pipelines; scalable B2B SaaS delivery.
 
-### Mobile
-
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- **Earlier**: Software Architect / Technical Lead / CTO / Technical Co-Founder across web, mobile, and SaaS products.
 
 ## Stats
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pablo-albaladejo&theme=onestar&no-frame=true&row=1&column=7)
+[GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablo-albaladejo&theme=transparent)
 
-![GitHub Stats](https://stats.quine.sh/pablo-albaladejo/github?theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablo-albaladejo&show_icons=true&theme=transparent)
 
-![Stack Overflow Stats](https://stats.quine.sh/pablo-albaladejo/stack-overflow?theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-albaladejo&layout=compact&theme=transparent)
+
+![Stack Overflow](https://stackoverflow-card.vercel.app/?userID=3395884)
