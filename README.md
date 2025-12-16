@@ -47,7 +47,7 @@ I build high-scale backend platforms and production-grade Generative AI systems 
 
 ## Stats
 
-[GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablo-albaladejo&theme=transparent)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablo-albaladejo&theme=transparent)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablo-albaladejo&show_icons=true&theme=transparent)
 
