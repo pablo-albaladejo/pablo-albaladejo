@@ -6,12 +6,20 @@ I build high-scale backend platforms and production-grade Generative AI systems 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Albaladejo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pabloalbaladejomestre)
 [![GitHub](https://img.shields.io/badge/GitHub-pablo--albaladejo-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pablo-albaladejo)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3395884/pablo-albaladejo)
+[![Website](https://img.shields.io/badge/Website-pablo--albaladejo.github.io-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white)](https://pablo-albaladejo.github.io)
 
 ## About
 
 - **Current focus**: bridging robust backend engineering and Generative AI (agent assistance, automation, and data-to-insight pipelines).
 - **Strengths**: event-driven / serverless architectures on AWS, platform reliability & cost efficiency, and pragmatic product execution.
 - **Fun fact**: triathlete (I like long runs—both in code and on the road).
+
+## Featured open source
+
+- **[Kaiord](https://github.com/pablo-albaladejo/kaiord)** · [kaiord.com](https://kaiord.com) — open-source health & fitness data framework: round-trip-safe conversions between FIT / TCX / ZWO / KRD, a visual [workout editor](https://kaiord.com/editor/), npm packages (`@kaiord/core`, `@kaiord/cli`), and an MCP server so AI agents can work with workout files.
+- **[tanita-to-garmin-cdk](https://github.com/pablo-albaladejo/tanita-to-garmin-cdk)** — serverless AWS app (CDK + Step Functions) that syncs body-composition data from a Tanita scale to Garmin Connect and Google Sheets.
+- **[trainingpeaks-sdk](https://github.com/pablo-albaladejo/trainingpeaks-sdk)** — TypeScript SDK for the TrainingPeaks platform.
+- **[streaming-lambda-ai-sdk](https://github.com/pablo-albaladejo/streaming-lambda-ai-sdk)** — structured LLM responses from Amazon Bedrock (Claude) streamed through AWS Lambda.
 
 ## Highlights
 
