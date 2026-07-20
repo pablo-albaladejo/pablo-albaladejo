@@ -1,64 +1,47 @@
-## Pablo Albaladejo — Senior Backend + AI Engineer
+## Pablo Albaladejo — AI Engineer
 
-I build high-scale backend platforms and production-grade Generative AI systems (Agentic Workflows + LLM Ops). 15+ years across SaaS (B2B/B2C), including CTO / technical co-founder roles.
+**Production LLM systems, agents & infrastructure.**
 
-[![Email](https://img.shields.io/badge/Email-pablo.albaladejo.mestre%40gmail.com-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.albaladejo.mestre@gmail.com)
+I build production software with AI agents — and the LLM evals, observability, and infrastructure that keep it honest. 17+ years in SaaS (AWS, TypeScript). Currently at Aircall, where my systems process **1M+ call transcriptions a day**. 9× AWS certified. Former CTO / technical co-founder.
+
+[![Website](https://img.shields.io/badge/Website-pabloalbaladejo.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pabloalbaladejo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Albaladejo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pabloalbaladejomestre)
 [![GitHub](https://img.shields.io/badge/GitHub-pablo--albaladejo-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pablo-albaladejo)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3395884/pablo-albaladejo)
-[![Website](https://img.shields.io/badge/Website-pablo--albaladejo.github.io-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white)](https://pablo-albaladejo.github.io)
-
-## About
-
-- **Current focus**: bridging robust backend engineering and Generative AI (agent assistance, automation, and data-to-insight pipelines).
-- **Strengths**: event-driven / serverless architectures on AWS, platform reliability & cost efficiency, and pragmatic product execution.
-- **Fun fact**: triathlete (I like long runs—both in code and on the road).
-
-## Featured open source
-
-- **[Kaiord](https://github.com/pablo-albaladejo/kaiord)** · [kaiord.com](https://kaiord.com) — open-source health & fitness data framework: round-trip-safe conversions between FIT / TCX / ZWO / KRD, a visual [workout editor](https://kaiord.com/editor/), npm packages (`@kaiord/core`, `@kaiord/cli`), and an MCP server so AI agents can work with workout files.
-- **[tanita-to-garmin-cdk](https://github.com/pablo-albaladejo/tanita-to-garmin-cdk)** — serverless AWS app (CDK + Step Functions) that syncs body-composition data from a Tanita scale to Garmin Connect and Google Sheets.
-- **[trainingpeaks-sdk](https://github.com/pablo-albaladejo/trainingpeaks-sdk)** — TypeScript SDK for the TrainingPeaks platform.
-- **[streaming-lambda-ai-sdk](https://github.com/pablo-albaladejo/streaming-lambda-ai-sdk)** — structured LLM responses from Amazon Bedrock (Claude) streamed through AWS Lambda.
-
-## Highlights
-
-- **Scale**: designing systems processing **1M+ daily call transcriptions** with low-latency requirements for real-time agent assistance.
-- **LLM Ops**: production observability for quality/cost/performance (incl. **Braintrust**) + feedback loops for continuous improvement.
-- **Cloud modernization**: migrating legacy systems to **event-driven, cloud-native** architectures (AWS Lambda/Fargate/DynamoDB/CDK).
-- **Product & leadership**: 15+ years building SaaS in HealthTech, HR, and Telecoms; experience as **CTO / technical co-founder**.
 
 ## What I work on
 
-- **Agentic workflows**: tool-using assistants, orchestration patterns, and backend primitives that make agents safe and useful.
-- **RAG & data pipelines**: turning raw conversation data into actionable insights, with strong guardrails and traceability.
-- **Backend architecture**: Hexagonal Architecture, event-driven systems, domain modeling, and pragmatic APIs.
-- **Production engineering**: observability, performance, reliability, cost controls, and CI/CD that teams can trust.
+- **Agentic systems** — tool-using assistants, orchestration, and the backend primitives that make agents safe in production.
+- **LLM evals & observability** — treating model quality as CI (versioned benchmarks, hard gates), and tracing stochastic systems *before* reaching for dashboards.
+- **AI infrastructure** — event-driven, serverless architectures on AWS (Lambda, Fargate, DynamoDB, Step Functions, CDK); RAG on Bedrock.
+- **Verifiable, not vibes** — the code is open source, the numbers are real, and the essays are published.
 
-## Tech (most used)
+## Featured
 
-- **Languages**: TypeScript/Node.js, Go, Python (and past experience with Java).
-- **AWS**: Lambda, Fargate, DynamoDB, API Gateway, EventBridge, CDK.
-- **Architecture**: Event-Driven Architecture, serverless, microservices, Hexagonal Architecture.
-- **AI / LLM**: Generative AI, Agentic Workflows, RAG, prompt engineering, evaluation & observability (Braintrust).
-- **Tooling**: Docker, Kubernetes, GitHub Actions, GitLab CI, Swagger/Postman.
+- **[Kaiord](https://github.com/pablo-albaladejo/kaiord)** · [kaiord.com](https://kaiord.com) — open-source, local-first training platform. 9 npm packages, a CLI, and an MCP server (in the official MCP registry), plus an evals harness (22 benchmarks behind a 90% CI gate). Every line written by AI agents.
+- **[Deepgent](https://deepgent.net)** — multi-tenant AI chatbot SaaS: RAG on AWS Bedrock, embeddable widget, fully serverless. Live in production.
+- **[streaming-lambda-ai-sdk](https://github.com/pablo-albaladejo/streaming-lambda-ai-sdk)** — structured LLM responses from Amazon Bedrock (Claude) streamed through AWS Lambda.
+- **[tanita-to-garmin-cdk](https://github.com/pablo-albaladejo/tanita-to-garmin-cdk)** — serverless AWS app (CDK + Step Functions) syncing body-composition data into Garmin Connect.
+- **[trainingpeaks-sdk](https://github.com/pablo-albaladejo/trainingpeaks-sdk)** — TypeScript SDK for the TrainingPeaks platform.
 
-## Experience snapshot
+## Writing & talks
 
-- **Aircall (Mar 2025 – Present)** — Senior Software Engineer (Backend + AI)  
-  Building AI assistants for agent productivity; high-throughput pipelines; LLM Ops strategy and observability in production.
+- **[Essays →](https://pabloalbaladejo.com/blog)** — evals as CI, observability for LLM pipelines, shipping software with AI agents, and GEO. Every claim anchored to public, verifiable artifacts.
+- **[Talks →](https://pabloalbaladejo.com/talks)** — available for technical talks on production AI, evals, and agentic development. English & Spanish, Madrid-based.
 
-- **hireful (Apr 2022 – Mar 2025)** — Senior Cloud Software Engineer  
-  Migrated legacy systems to cloud-native event-driven architectures; CI/CD pipelines; scalable B2B SaaS delivery.
+## Tech
 
-- **Earlier**: Software Architect / Technical Lead / CTO / Technical Co-Founder across web, mobile, and SaaS products.
+- **Languages**: TypeScript / Node.js, Python, Go.
+- **AWS**: Lambda, Fargate, DynamoDB, API Gateway, EventBridge, Step Functions, Bedrock, CDK — 9× certified (incl. Generative AI Developer – Professional, Solutions Architect – Professional, ML Engineer – Associate).
+- **AI / LLM**: agentic workflows, RAG, LLM evaluation, observability, MCP.
+- **Architecture**: event-driven, serverless, hexagonal architecture, domain modeling.
 
-## Stats
+## Experience
 
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablo-albaladejo&theme=transparent)
+- **Aircall** (Mar 2025 – Present) — *Senior Software Engineer & AI Architect*. AI call-summarization, LLM evals & observability, high-throughput serverless pipelines.
+- **hireful** (Apr 2022 – Mar 2025) — *Lead Cloud Software Engineer*. Migrated legacy systems to cloud-native, event-driven architectures; CI/CD; B2B SaaS delivery.
+- **Earlier** — Software Architect / Technical Lead / CTO / technical co-founder across web, mobile, and SaaS. Full CV → **[pabloalbaladejo.com/cv](https://pabloalbaladejo.com/cv)**.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablo-albaladejo&show_icons=true&theme=transparent)
+*Triathlete when I'm not shipping.*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-albaladejo&layout=compact&theme=transparent)
-
-![Stack Overflow](https://stackoverflow-card.vercel.app/?userID=3395884)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-albaladejo&show_icons=true&theme=transparent)
