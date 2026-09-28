@@ -5,7 +5,7 @@
 I build production software with AI agents — and the LLM evals, observability, and infrastructure that keep it honest. 17+ years in SaaS (AWS, TypeScript). Currently at Aircall, where my systems process **1M+ call transcriptions a day**. 9× AWS certified. Former CTO / technical co-founder.
 
 [![Website](https://img.shields.io/badge/Website-pabloalbaladejo.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pabloalbaladejo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Albaladejo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pabloalbaladejomestre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Albaladejo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-albaladejo-aws-software-engineer-ai)
 [![GitHub](https://img.shields.io/badge/GitHub-pablo--albaladejo-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pablo-albaladejo)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3395884/pablo-albaladejo)
 
